@@ -1,0 +1,1604 @@
+[*] 2026-01-07 21:50:32.949017 - Learned new device: 192.168.29.209 -> ae:c6:0d:7b:95:4f
+[*] 2026-01-07 21:54:57.404503 - Learned new device: 192.168.29.209 -> ae:c6:0d:7b:95:4f
+[*] 2026-01-07 21:55:35.055362 - Learned new device: 192.168.29.209 -> ae:c6:0d:7b:95:4f
+[*] 2026-01-07 21:57:57.019953 - Learned new device: 192.168.29.209 -> ae:c6:0d:7b:95:4f
+[*] 2026-01-07 22:04:58.090665 - Learned new device: 192.168.29.209 -> ae:c6:0d:7b:95:4f
+[*] 2026-01-07 22:10:39.662199 - Learned new device: 192.168.29.1 -> ae:c6:0d:7b:95:4f
+[*] 2026-01-07 22:11:00.897717 - Learned new device: 192.168.29.209 -> ae:c6:0d:7b:95:4f
+[*] 2026-01-07 22:16:29.805476 - Learned new device: 192.168.29.209 -> ae:c6:0d:7b:95:4f
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:24.143707
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:24.163388
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:26.144197
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:26.145034
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:28.144321
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:28.148182
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:30.144812
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:30.147242
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:32.145367
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:32.146670
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:34.145596
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:34.148220
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:36.145952
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:36.147129
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:38.146463
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:38.166625
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:40.146868
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:40.147866
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:42.147487
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:42.168322
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:44.147046
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:44.148117
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:46.147142
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:46.150131
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:48.147733
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:48.158228
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:50.147964
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:50.151624
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:52.148239
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:52.149167
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:54.148841
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:54.149708
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:56.148474
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:56.149025
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:58.149047
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:17:58.157424
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:00.149099
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:00.150030
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:02.149753
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:02.152549
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:04.149151
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:04.169527
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:06.150399
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:06.153749
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:08.150782
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:08.153793
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:10.151452
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:10.154812
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:12.150659
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:12.151082
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:14.152311
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:14.172801
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:16.152359
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:16.172394
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:18.153157
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:18.173689
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:20.153354
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:20.158375
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:22.153350
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:22.156271
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:24.153432
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:24.173528
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:26.154627
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:26.156154
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:28.154405
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:28.173136
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:30.154388
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:30.160434
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:32.154331
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:32.154994
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:34.155156
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:34.157541
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:36.155620
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:36.158917
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:38.155513
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:38.175930
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:40.155440
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:40.164534
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:42.156216
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:42.177480
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:44.156260
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:44.160128
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:46.156481
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:46.158480
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:48.157096
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:48.160627
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:50.156944
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:50.160333
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:52.157131
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:52.160415
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:54.157562
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:54.158913
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:56.157580
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:56.160737
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:58.157722
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:18:58.160338
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:00.158250
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:00.179856
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:02.158109
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:02.176781
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:04.158493
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:04.159544
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:06.159237
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:06.160113
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:08.159571
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:08.179713
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:10.160553
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:10.161385
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:12.160675
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:12.161565
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:14.161092
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:14.180851
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:16.161540
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:16.180808
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:18.161986
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:18.180914
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:20.162023
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:20.164707
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:22.161879
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:22.182082
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:24.162438
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:24.163356
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:26.162462
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:26.183236
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:28.161992
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:28.165157
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:30.163323
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:30.184474
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:32.162886
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:32.168977
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:34.163695
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:34.184910
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:36.163591
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:36.166808
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:38.163523
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:38.174739
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:40.163625
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:40.167380
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:42.164212
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:42.167838
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:44.163755
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:44.164496
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:46.164284
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:46.165080
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:48.164712
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:48.167954
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:50.164376
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:50.164906
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:52.164685
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:52.168517
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:54.165001
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:54.168516
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:56.164883
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:56.184933
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:58.165199
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:19:58.168525
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:00.165604
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:00.168280
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:02.165508
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:02.168561
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:04.165699
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:04.169471
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:06.165822
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:06.178779
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:08.165884
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:08.166728
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:10.166842
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:10.169733
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:12.166672
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:12.179243
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:14.166648
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:14.167709
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:16.166888
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:16.188589
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:18.167011
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:18.170286
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:20.166936
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:20.167268
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:22.167985
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:22.169339
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:24.167797
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:24.168960
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:26.168149
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:26.168842
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:28.168148
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:28.187808
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:30.168994
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:30.171412
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:32.169175
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:32.170344
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:34.169935
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:34.172692
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:36.169991
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:36.172655
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:38.170284
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:38.192853
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:40.170614
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:40.171775
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:42.170946
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:42.190520
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:44.171190
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:44.174535
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:46.171903
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:46.191787
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:48.171225
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:48.174029
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:50.172209
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:50.175835
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:52.172724
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:52.173807
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:54.173084
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:54.174485
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:56.173362
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:56.174198
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:58.173649
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:20:58.174522
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:00.174133
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:00.175433
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:02.174361
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:02.175222
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:04.173997
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:04.175102
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:06.174658
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:06.175601
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:08.175021
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:08.177863
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:10.174909
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:10.179023
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:12.175594
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:12.178726
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:14.175594
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:14.196045
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:16.176037
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:16.189536
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:18.176740
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:18.177577
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:20.176086
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:20.176596
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:22.176811
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:22.177723
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:24.176443
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:24.177257
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:26.176805
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:26.177676
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:28.176860
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:28.177907
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:30.177317
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:30.178385
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:32.177243
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:32.178040
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:34.177949
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:34.178787
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:36.178090
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:36.188925
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:38.178115
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:38.199885
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:40.178313
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:40.179019
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:42.178744
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:42.181783
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:44.178802
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:44.179624
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:46.179117
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:46.188069
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:48.179744
+
+[ALERT] ARP Spoofing Detected!
+IP Address: 192.168.29.1
+Old MAC: aa:bb:cc:dd:ee:ff
+New MAC: ae:c6:0d:7b:95:4f
+Time: 2026-01-07 22:21:48.200432
+

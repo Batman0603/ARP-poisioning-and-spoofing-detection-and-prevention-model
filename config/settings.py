@@ -1,0 +1,4 @@
+INTERFACE = "wlp62s0"   # <--- REPLACE "wlan0" WITH YOUR ACTUAL INTERFACE NAME
+ALERT_LOG = "logs/alerts.log"
+GATEWAY_IP = "192.168.29.1"
+GATEWAY_MAC = "aa:bb:cc:dd:ee:ff"  # <--- REPLACE THIS WITH REAL GATEWAY MAC
